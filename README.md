@@ -5,7 +5,7 @@ An interactive Healthcare Analytics Dashboard designed to monitor and optimize E
 # 📊 Dashboard Preview
 
 <p align="left">
-  <img src="screenshots/6.jpg" width="">
+  <img src="Hospital Dashboard Final .jpg.jpeg" width="">
 </p>
 
 # 🚀 Project Overview
