@@ -1,10 +1,14 @@
-🏥 Hospital Emergency Room Dashboard
+# 🏥 Hospital Emergency Room Dashboard
 
 An interactive Healthcare Analytics Dashboard designed to monitor and optimize Emergency Room (ER) operations. This project provides insights into patient volume, wait times, admission rates, department referrals, and overall service efficiency.
 
-📊 Dashboard Preview
+# 📊 Dashboard Preview
 
-🚀 Project Overview
+<p align="left">
+  <img src="screenshots/6.jpg" width="">
+</p>
+
+# 🚀 Project Overview
 
 Emergency Rooms operate under high pressure where time, resource allocation, and patient prioritization are critical.
 
@@ -15,7 +19,8 @@ Monitor average wait times
 Analyze admission vs non-admission rates
 Evaluate department referral patterns
 Understand demographic distribution (age & gender)
-🎯 Key Features
+
+## 🎯 Key Features
 📌 1. Patient Volume Tracking
 Displays total number of patients for selected month/year
 Helps identify peak load periods
@@ -40,12 +45,14 @@ Neurology
 etc.
 ⏳ 7. Timeliness Tracking
 % of patients attended within time vs delayed
-🛠️ Tech Stack
+
+# 🛠️ Tech Stack
 Data Visualization: Power BI / Tableau (whichever you used)
 Data Processing: Excel / CSV Dataset
 Design: Dashboard UI/UX principles
 Data Source: Simulated Hospital ER Dataset
-📂 Dataset
+
+# 📂 Dataset
 
 The dataset includes:
 
@@ -55,7 +62,8 @@ Wait times
 Admission status
 Department referrals
 Satisfaction scores
-📌 Business Use Cases
+
+# 📌 Business Use Cases
 
 This dashboard can be used by:
 
@@ -69,23 +77,27 @@ Admission rate is ~50%, suggesting balanced ER utilization
 Highest patient load is in age group 30–44
 Majority referrals are non-specialized (General cases)
 Wait time directly impacts satisfaction score
-🔮 Future Enhancements
+
+# 🔮 Future Enhancements
 Real-time data integration (IoT / Hospital systems)
 Predictive analytics for patient inflow
 AI-based wait time prediction
 Alert system for overload scenarios
 Drill-down views for doctor-level performance
-💡 What I Learned
+
+# 💡 What I Learned
 Designing data-driven dashboards for decision making
 Translating business problems into analytics solutions
 Applying UX principles in data visualization
 Identifying KPIs for healthcare operations
-📎 How to Use
+
+# 📎 How to Use
 Download the dataset
 Open dashboard file (Power BI / Tableau)
 Use filters (Month / Year)
 Explore insights interactively
-👨‍💼 Author
 
-[Your Name]
-Product Manager | Data Enthusiast | Healthcare Analytics Explorer
+# 👨‍💼 Author
+
+Bikkina Devi Sree Anusha
+Product Manager
